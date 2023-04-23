@@ -1,0 +1,4 @@
+Eggs,20,10
+Oil,15,1
+Butter,8,3
+Water,10,1

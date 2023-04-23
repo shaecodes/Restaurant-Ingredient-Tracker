@@ -1,0 +1,8 @@
+
+Eggs: Eggs was added to Inventory on 2023-04-22 at 21:09:30
+Oil: Oil was added to Inventory on 2023-04-22 at 21:09:52
+Butter: Butter was added to Inventory on 2023-04-22 at 21:10:16
+Water: Water was added to Inventory on 2023-04-22 at 21:13:22
+Oil: Restocked 10 units on 2023-04-22 at 21:15:30
+Mayo: Deleted from Inventory on 2023-04-22 at 21:15:55
+Butter: Used 2 units on 2023-04-22 at 21:16:22
