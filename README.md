@@ -25,11 +25,11 @@ Restock ingredients: The program allows users to restock ingredients by specifyi
 
 # File Descriptions  
 
-- ingredient.py: Contains the main Python code for the Restaurant Ingredient Tracker program, including the Ingredient class and its methods for managing ingredient inventory.  
+- **ingredient.py**: Contains the main Python code for the Restaurant Ingredient Tracker program, including the Ingredient class and its methods for managing ingredient inventory.  
 
-- log_file.txt: The log file that stores all ingredient stock activities in a formatted manner for easy tracking and record-keeping purposes.  
+- **log_file.txt**: The log file that stores all ingredient stock activities in a formatted manner for easy tracking and record-keeping purposes.  
 
-- ingredients.txt: The text file that stores the ingredient inventory, including the name, stock quantity, and threshold for each ingredient. The file is updated automatically when restocking, using, adding, or deleting ingredients.  
+- **ingredients.txt**: The text file that stores the ingredient inventory, including the name, stock quantity, and threshold for each ingredient. The file is updated automatically when restocking, using, adding, or deleting ingredients.  
 
 # Requirements
 The Restaurant Ingredient Tracker program requires the following:
