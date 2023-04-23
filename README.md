@@ -4,7 +4,7 @@ The Restaurant Ingredient Tracker is a Python program that allows restaurants to
 
 
 # Features
-Restock ingredients: The program allows users to restock ingredients by specifying the amount to be added to the stock quantity. The stock quantity is automatically updated and a log is recorded.
+- **Restock ingredients**: The program allows users to restock ingredients by specifying the amount to be added to the stock quantity. The stock quantity is automatically updated and a log is recorded.
 
 - **Check stock levels**: Users can check the current stock quantity of ingredients. If the stock quantity falls below a threshold, a low stock alert is generated and recorded in the log.
 
